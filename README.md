@@ -81,17 +81,17 @@
 
 👋 Hello, I'm Mishkat
 
--🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
+- 🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
 
--💻 I'm proficient in multiple programming languages, including C++, Java, Python, C, and PHP, giving me a versatile toolkit to approach diverse software development tasks.
+- 💻 I'm proficient in multiple programming languages, including C++, Java, Python, C, and PHP, giving me a versatile toolkit to approach diverse software development tasks.
 
--📊 I also have experience in database management, particularly in MySQL, and I enjoy creating efficient data solutions.
+- 📊 I also have experience in database management, particularly in MySQL, and I enjoy creating efficient data solutions.
 
--🎨 Beyond the realm of code, I'm a multifaceted individual with a penchant for creativity. I work as a graphic designer on Fiverr, where I bring visual ideas to life, further expanding my skill set and artistic abilities.
+- 🎨 Beyond the realm of code, I'm a multifaceted individual with a penchant for creativity. I work as a graphic designer on Fiverr, where I bring visual ideas to life, further expanding my skill set and artistic abilities.
 
--🌄 When I'm not immersed in the digital world, I love to explore the great outdoors. Hiking and cycling are my go-to activities to connect with nature and recharge. I'm an avid reader, constantly seeking new knowledge and inspiration from books, and I'm always up for a coding challenge or a personal project to keep the creative juices flowing.
+- 🌄 When I'm not immersed in the digital world, I love to explore the great outdoors. Hiking and cycling are my go-to activities to connect with nature and recharge. I'm an avid reader, constantly seeking new knowledge and inspiration from books, and I'm always up for a coding challenge or a personal project to keep the creative juices flowing.
 
--🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!
+- 🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!
 
 
 
