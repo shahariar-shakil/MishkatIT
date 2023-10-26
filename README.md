@@ -102,7 +102,7 @@
 
 ![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=github-readme-stats)](https://github.com/MishkatIT/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=leetcode-submissions)](https://github.com/MishkatIT/github-readme-stats)
 
 ### Where to find me
 
