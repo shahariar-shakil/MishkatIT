@@ -100,9 +100,9 @@
 ### Numbers
 ![Mishkat's stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true)
 
-![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=darcula&hide_border=true)
+![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
 
-![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
