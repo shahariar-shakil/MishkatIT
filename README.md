@@ -98,7 +98,7 @@
 
 
 ### Numbers
-[Mishkat's Stats]: https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=github-readme-stats&cache_seconds=86400&theme=gotham
+![Mishkat's stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true)
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=darcula&hide_border=true)
 
