@@ -71,8 +71,6 @@
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=flat-square&logo=xiaomi&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat-square&logo=HackerEarth&logoColor=Blue)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)
@@ -83,17 +81,17 @@
 
 👋 Hello, I'm Mishkat
 
-🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
+-🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
 
-💻 I'm proficient in multiple programming languages, including C++, Java, Python, C, and PHP, giving me a versatile toolkit to approach diverse software development tasks.
+-💻 I'm proficient in multiple programming languages, including C++, Java, Python, C, and PHP, giving me a versatile toolkit to approach diverse software development tasks.
 
-📊 I also have experience in database management, particularly in MySQL, and I enjoy creating efficient data solutions.
+-📊 I also have experience in database management, particularly in MySQL, and I enjoy creating efficient data solutions.
 
-🎨 Beyond the realm of code, I'm a multifaceted individual with a penchant for creativity. I work as a graphic designer on Fiverr, where I bring visual ideas to life, further expanding my skill set and artistic abilities.
+-🎨 Beyond the realm of code, I'm a multifaceted individual with a penchant for creativity. I work as a graphic designer on Fiverr, where I bring visual ideas to life, further expanding my skill set and artistic abilities.
 
-🌄 When I'm not immersed in the digital world, I love to explore the great outdoors. Hiking and cycling are my go-to activities to connect with nature and recharge. I'm an avid reader, constantly seeking new knowledge and inspiration from books, and I'm always up for a coding challenge or a personal project to keep the creative juices flowing.
+-🌄 When I'm not immersed in the digital world, I love to explore the great outdoors. Hiking and cycling are my go-to activities to connect with nature and recharge. I'm an avid reader, constantly seeking new knowledge and inspiration from books, and I'm always up for a coding challenge or a personal project to keep the creative juices flowing.
 
-🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!
+-🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!
 
 
 
@@ -103,6 +101,7 @@
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
 
 ![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Where to find me
 
