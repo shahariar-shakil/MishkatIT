@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 Hello there! Nice to see you :)</h1>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -79,7 +79,7 @@
 
 
 
-👋 Hello, I'm Mishkat
+ I'm Mishkat
 
 - 🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
 
