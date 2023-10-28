@@ -1,12 +1,12 @@
 <h2 align="center">
-  <font color="#007BFF"><b>Mishkat</b></font>
+  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font>
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
 </p>
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you :)</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="MishkatIT" /> </p>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
@@ -87,8 +87,6 @@
 
 
 
-
- I'm Mishkat
 
 - 🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). I have a deep passion for problem-solving, and I've been harnessing the power of C++ to tackle complex challenges. My journey in the world of Computer Science has been an exciting exploration of data structures and algorithms, which I continually apply to solve intricate problems.
 
