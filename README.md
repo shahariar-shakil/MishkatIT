@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   <font color="#007BFF"><b>Mishkat</b></font>
-</h3>
+</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
 </p>
@@ -104,7 +104,7 @@
 
 
 
-### Numbers
+## Numbers
 ![Mishkat's stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true)
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
@@ -113,7 +113,7 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MishkatIT&repo=MishkatIT)](https://github.com/MishkatIT/github-readme-stats) -->
 
-### Where to find me
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miskat141)
