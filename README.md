@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
 </p>
 
-
+[![Badge](https://cp-logo.vercel.app/codechef/MishkatIT)]
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="MishkatIT" /> </p>
 
