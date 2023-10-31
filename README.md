@@ -119,7 +119,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MishkatIT)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MishkatIT/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mishkatit)
-[![Atcoder](https://img.shields.io/badge/AtCoder-%23964B00.svg?style=flat-square&logo=AtCoder&logoColor=grey)](https://atcoder.jp/users/mishkatit)
+[![Atcoder](https://img.shields.io/badge/AtCoder-%23964B00.svg?style=flat-square&logo=AtCoder&logoColor=gray)](https://atcoder.jp/users/mishkatit)
 
 
 
