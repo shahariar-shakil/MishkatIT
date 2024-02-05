@@ -103,7 +103,7 @@
 
 
 ## Numbers
-![Mishkat's stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham&show_icons=true" style="filter: invert(1) contrast(90%);" />
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
 
