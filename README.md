@@ -103,7 +103,7 @@
 
 
 ## Numbers
-<img src="https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham&show_icons=true" style="filter: invert(1) contrast(90%);" />
+<img src="https://img.shields.io/badge/Profile%20Stats-MishkatIT-success.svg" style="filter: invert(1);" />
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
 
