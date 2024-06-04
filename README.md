@@ -1,5 +1,5 @@
 <h2 align="center">
-  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font>
+  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
@@ -102,7 +102,7 @@
 
 
 
-## Numbers
+## Number
 <img src="https://img.shields.io/badge/Profile%20Stats-MishkatIT-success.svg" style="filter: invert(1);" />
 
 ![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
